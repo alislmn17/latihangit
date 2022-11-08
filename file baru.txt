@@ -4,3 +4,8 @@ file ali
 text edit
 
 tambah
+yyyyy
+<<<<<<< Updated upstream
+s
+=======
+>>>>>>> Stashed changes
